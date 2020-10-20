@@ -1,0 +1,4 @@
+First exercise in C++
+
+Getting to know C++ classes by implementing a class of large integers, and a set of these large integers.
+In this exercise, we used references , const values, classes in general, dynamic allocation and operator overloading.
