@@ -1,0 +1,13 @@
+Exercise 2
+STL, Classes, Inheritance, Copying and Moving
+
+In this exercise, we implemented a catalog management system, that keeps track of the items in IKEA. The system has to support the following actions:
+
+
+1. Input stock from file (read a file and add the items to the catalog)
+2. Find item by catalog number
+3. Find item by name
+4. Print stock by catalog number
+5. Print stock by name
+6. Sell item
+7. Exit
